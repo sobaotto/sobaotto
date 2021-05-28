@@ -1,18 +1,18 @@
 # ポートフォリオについて
-## 【制作物】画像で覚える英単語クイズアプリ
+## 1. 画像で覚える英単語クイズアプリ
 ### イメージ
-![IMG_6813](https://user-images.githubusercontent.com/75721044/119997946-36b5f600-c00b-11eb-8471-f00b7f800234.PNG)
-![IMG_6815](https://user-images.githubusercontent.com/75721044/119997973-3cabd700-c00b-11eb-93bc-29fc42b81e74.PNG)
-![IMG_6818](https://user-images.githubusercontent.com/75721044/119998001-43d2e500-c00b-11eb-8d6c-8911b58baf6d.PNG)
-![IMG_6819](https://user-images.githubusercontent.com/75721044/119998007-45041200-c00b-11eb-9971-15eba0a66bdf.PNG)
-![IMG_6820](https://user-images.githubusercontent.com/75721044/119998022-49c8c600-c00b-11eb-8b65-17327871b128.PNG)
-![IMG_6821](https://user-images.githubusercontent.com/75721044/119998028-4a615c80-c00b-11eb-982e-bc190d7100f0.PNG)
+<img src="https://user-images.githubusercontent.com/75721044/119998007-45041200-c00b-11eb-9971-15eba0a66bdf.PNG" width="150px"> <img src="https://user-images.githubusercontent.com/75721044/119998022-49c8c600-c00b-11eb-8b65-17327871b128.PNG" width="150px"> <img src="https://user-images.githubusercontent.com/75721044/119998001-43d2e500-c00b-11eb-8d6c-8911b58baf6d.PNG" width="150px">
+
+<img src="https://user-images.githubusercontent.com/75721044/119997946-36b5f600-c00b-11eb-8471-f00b7f800234.PNG" width="150px"> <img src="https://user-images.githubusercontent.com/75721044/119997973-3cabd700-c00b-11eb-93bc-29fc42b81e74.PNG" width="150px"> <img src="https://user-images.githubusercontent.com/75721044/119998028-4a615c80-c00b-11eb-982e-bc190d7100f0.PNG" width="150px">
+
 
 ### 使用技術
 項目|詳細
 -|-
 フロントエンド|- TypeScript　- React
 バックエンド|- Firebase
+CI/CD|Github Actions
+
 ### コンセプト
 - 従来の単語帳の様な「英語⇄日本語」で記憶するのではなく、「英語⇄画像」で記憶することで英語脳を作ろう
 ### なぜ作ったか？
@@ -29,7 +29,7 @@
 
 
 
-# 直近の活動状況
+# （備考）直近の活動状況
 
 [![](https://raw.githubusercontent.com/sobaotto/sobaotto/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/sobaotto/sobaotto/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
