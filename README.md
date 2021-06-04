@@ -25,8 +25,8 @@ CI/CD|Github Actions
 - 実務に近づけるためにプルリク〜マージまでを実践したこと
 
 ### 非技術的な工夫点
-- 学んだことをZennに投稿し、発信した
 - 相手の時間を奪わない質問仕方を意識した
+- 学んだことをZennに投稿し、発信した/[Zennリンク](https://zenn.dev/sobaotto)
 
 ### 今後の改善方針
 - APIをExpressを用いてRESTfulに実装する
