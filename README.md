@@ -26,9 +26,15 @@ CI/CD|Github Actions
 
 ### 非技術的な工夫点
 - 相手の時間を奪わない質問仕方を意識した
-- 学んだことをZennに投稿し、発信した/[Zennリンク](https://zenn.dev/sobaotto)
+- 学んだことをZennに投稿し、発信した。[リンク](https://zenn.dev/sobaotto)
 
 ### 今後の改善方針
 - APIをExpressを用いてRESTfulに実装する
 - iOSでもPWAとして実装する（Androidは実装済み）
 - DB負荷を考慮してキャッシュサーバーなど考慮してみる
+
+### 今後学びたい技術
+- ESLint/Prettier
+- Next.js
+- SASS
+- PWA
