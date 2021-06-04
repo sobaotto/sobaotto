@@ -20,18 +20,18 @@ CI/CD|Github Actions
 - DB操作を自作APIで実装したこと
 - リファレンスに沿った命名規則を意識したこと
 - ***GitHub Actions***を用いてCD環境を構築したこと
-- TypeScriptで型付けすることでバグを生みにくくした
 - ***webpack***と***tsconfig***の設定を***自前***で行なったこと
+- TypeScriptで型付けすることでバグを生みにくくした
 - 実務に近づけるために***プルリク〜マージ***までを実践したこと
 
 ### 非技術的な工夫点
 - 相手の時間を奪わない質問仕方を意識した
-- 学んだことをZennに投稿し、発信した。[＊Zennアカウントへ](https://zenn.dev/sobaotto)
+- 学んだことをZennに投稿し、発信した[＊Zennアカウントへ](https://zenn.dev/sobaotto)
 
 ### 今後の改善方針
-- APIをExpressを用いてRESTfulに実装する
 - iOSでもPWAとして実装する（Androidは実装済み）
-- DB負荷を考慮してキャッシュサーバーなど考慮してみる
+- APIをExpressを用いてRESTfulに実装する
+- DB負荷や拡張性を意識して開発する
 
 ### 今後学びたい技術
 - ESLint/Prettier
