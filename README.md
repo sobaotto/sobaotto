@@ -1,5 +1,5 @@
 # ポートフォリオについて
-## 1.　画像で覚える英単語クイズアプリ　[Go to Repository](https://github.com/sobaotto/photo-wordbook)
+## 1.　画像で覚える英単語クイズアプリ　[リポジトリへ](https://github.com/sobaotto/photo-wordbook)
 ### イメージ
 <img src="https://user-images.githubusercontent.com/75721044/119998007-45041200-c00b-11eb-9971-15eba0a66bdf.PNG" width="150px"> <img src="https://user-images.githubusercontent.com/75721044/119998022-49c8c600-c00b-11eb-8b65-17327871b128.PNG" width="150px"> <img src="https://user-images.githubusercontent.com/75721044/119998001-43d2e500-c00b-11eb-8d6c-8911b58baf6d.PNG" width="150px">
 
@@ -12,16 +12,23 @@
 バックエンド|- Firebase
 CI/CD|Github Actions
 
-### コンセプト
+### 制作物のコンセプト
 - 従来の単語帳の様な「英語⇄日本語」で記憶するのではなく、「英語⇄画像」で記憶することで英語脳を作ろう
-### なぜ作ったか？
-- 英語のドキュメントを読んでいく中で、英語を英語のまま理解できたらいいなと思ったから。
-- 数人の知り合いに聞いたところ、同様のニーズが受験生や語学学習者にもあるということが分かったから。
-### 利用者の声
-- (good)英語脳を作るというコンセプトはとてもいい
-- (more)問題の正誤判定時に、音を追加して欲しい
-- (more)辞書にある単語の意味を載せて欲しい
-- (more)画像の精度を上げて欲しい
-### 今後の改善計画
-- 問題の正誤判定の時に音や分かりやすいUIを追加する
-- 辞書APIを用いて単語の意味を充実させる
+
+### 技術的な工夫点
+- SPAとして実装したこと
+- DB操作を自作APIで実装したこと
+- リファレンスに沿った命名規則を意識したこと
+- GitHub Actionsを用いてCD環境を構築したこと
+- webpackとtsconfigの設定を自前で行なったこと
+- TypeScriptで型付けをすることでバグを生みにくくした
+- 実務に近づけるためにプルリク〜マージまでを実践したこと
+
+### 非技術的な工夫点
+- 学んだことをZennに投稿し、発信した
+- 相手の時間を奪わない質問仕方を意識した
+
+### 今後の改善方針
+- APIをExpressを用いてRESTfulに実装する
+- iOSでもPWAとして実装する（Androidは実装済み）
+- DB負荷を考慮してキャッシュサーバーなど考慮してみる
