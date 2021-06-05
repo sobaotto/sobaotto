@@ -41,5 +41,5 @@ CI/CD|Github Actions
 ## 今後学びたい技術
 - ESLint/Prettier
 - Next.js
-- SASS
+- Sass
 - PWA
