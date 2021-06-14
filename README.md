@@ -2,15 +2,25 @@
 ### [アプリへのリンク](https://photo-wordbook.web.app)　[リポジトリへのリンク](https://github.com/sobaotto/photo-wordbook)
 ## 目次
 1. アプリ概要
+- アプリイメージ
+- コンセプト
+- 実装機能（できること）
 2. こだわりなど
+- こだわり
+- なぜ作ったのか？
+- 開発で難しかったこと
 3. 技術的なまとめ
+- 使用技術
+- 技術的に学んだこと
 4. 今後の改善TODOなど（ユーザーからのフィードバックを元に）
+- アプリの改善点
+- 今後学びたい技術
 
 # ①アプリ概要
 ## アプリイメージ
 <img src="https://user-images.githubusercontent.com/75721044/119998007-45041200-c00b-11eb-9971-15eba0a66bdf.PNG" width="150px"> <img src="https://user-images.githubusercontent.com/75721044/119998022-49c8c600-c00b-11eb-8b65-17327871b128.PNG" width="150px"> <img src="https://user-images.githubusercontent.com/75721044/119998001-43d2e500-c00b-11eb-8d6c-8911b58baf6d.PNG" width="150px"> <img src="https://user-images.githubusercontent.com/75721044/119997946-36b5f600-c00b-11eb-8471-f00b7f800234.PNG" width="150px"> <img src="https://user-images.githubusercontent.com/75721044/119997973-3cabd700-c00b-11eb-93bc-29fc42b81e74.PNG" width="150px"> <img src="https://user-images.githubusercontent.com/75721044/119998028-4a615c80-c00b-11eb-982e-bc190d7100f0.PNG" width="150px">
  
-## 制作物のコンセプト
+## コンセプト
 - 従来の単語帳の様な「英語⇄日本語」で記憶するのではなく、「英語⇄イメージ」で記憶することで英語脳を作ろう
 > 参考画像（出典：https://fun-english.net/what-is-eigonou/ ）
 <img src="https://user-images.githubusercontent.com/75721044/121796237-a276a080-cc52-11eb-8cda-d5be9cf6ce34.png" width="700px">
@@ -83,7 +93,7 @@ UIライブラリ|Chakra UI
  - 多様な機能があるので拡張性があること
 
 # ④今後の改善TODOなど（ユーザーからのフィードバックを元に）
-## 改善点
+## アプリの改善点
 - ゲスト会員から正規会員へ変更する導線を作る
 - 音で正誤を判定できるようにする
 - 間違えた問題の復習機能を作る
