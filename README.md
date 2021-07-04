@@ -53,6 +53,7 @@
 DB|Cloud Firestore
 認証|Firebase Authentication
 API作成|Cloud Functions
+CD|GitHub Actions
 UIライブラリ|Chakra UI
 
 ## 技術的なこだわり
