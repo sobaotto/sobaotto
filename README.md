@@ -8,11 +8,11 @@
 - 実装機能（できること）
 ### 2. 技術的なまとめ
 - 使用技術
-- 技術的なこだわり
+- (★)技術的なこだわり
 - 難しかったこと
 - 技術的に学んだこと
 ### 3. その他まとめ
-- マインド的なこだわり
+- (★)マインド的なこだわり
 - ユーザーフィードバックにより改善したこと
 ### 4. 今後に向けて
 - アプリの改善点（ユーザーからのフィードバックを元に）
@@ -54,6 +54,7 @@ DB|Cloud Firestore
 認証|Firebase Authentication
 API作成|Cloud Functions
 CD|GitHub Actions
+Formatter|Prettier
 UIライブラリ|Chakra UI
 
 ## 技術的なこだわり
