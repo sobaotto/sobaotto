@@ -25,7 +25,7 @@
 ## コンセプト
 - 従来の単語帳の様な「英語⇄日本語」で記憶するのではなく、「英語⇄イメージ」で記憶することで英語脳を作ろう
 > 参考画像（出典：https://fun-english.net/what-is-eigonou/ ）
-<img src="https://user-images.githubusercontent.com/75721044/121796237-a276a080-cc52-11eb-8cda-d5be9cf6ce34.png" width="700px">
+<img src="https://user-images.githubusercontent.com/75721044/121796237-a276a080-cc52-11eb-8cda-d5be9cf6ce34.png"  width="700px">
 
 ## なぜ作ったのか？
 1. 現在中国語を学習しており、その学習の質を向上させるため  
