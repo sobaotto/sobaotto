@@ -15,10 +15,30 @@
 ### Each card usage
 ---
 
-![](./3-stats.svg)
+![](./0-profile-details.svg)
 
 ```
-![](https://raw.githubusercontent.com/sobaotto/sobaotto/main/profile-summary-card-output/city_lights/3-stats.svg)
+![](https://raw.githubusercontent.com/sobaotto/sobaotto/main/profile-summary-card-output/city_lights/0-profile-details.svg)
+```
+
+    
+
+---
+
+![](./1-repos-per-language.svg)
+
+```
+![](https://raw.githubusercontent.com/sobaotto/sobaotto/main/profile-summary-card-output/city_lights/1-repos-per-language.svg)
+```
+
+    
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/sobaotto/sobaotto/main/profile-summary-card-output/city_lights/2-most-commit-language.svg)
 ```
 
     
